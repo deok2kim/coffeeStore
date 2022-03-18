@@ -1,0 +1,109 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"name": "달콤커피",
+			"price": 5000,
+			"imageUrl": "https://image.dalkomm.com/app/static/images/menu/thumbnail/20220311134929_05_Spring-Tea.png",
+			"productOptions": [
+				{
+					"id": 1,
+					"name": "샷 추가",
+					"stock": 30,
+					"price": 500
+				},
+				{
+					"id": 2,
+					"name": "펄 추가",
+					"stock": 0,
+					"price": 600
+				},
+				{
+					"id": 3,
+					"name": "사이즈 업",
+					"stock": 30,
+					"price": 1000
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "달콤커",
+			"price": 4000,
+			"imageUrl": "https://image.dalkomm.com/app/static/images/menu/thumbnail/20220314222751_04_Spring-Ade.png",
+			"productOptions": [
+				{
+					"id": 1,
+					"name": "샷 추가",
+					"stock": 30,
+					"price": 500
+				},
+				{
+					"id": 2,
+					"name": "펄 추가",
+					"stock": 0,
+					"price": 600
+				},
+				{
+					"id": 3,
+					"name": "사이즈 업",
+					"stock": 30,
+					"price": 1000
+				}
+			]
+			
+		},
+		{
+			"id": 3,
+			"name": "콤커피",
+			"price": 6000,
+			"imageUrl": "https://image.dalkomm.com/app/static/images/menu/thumbnail/20220311140226_11_Hallabong_Juice.png",
+			"productOptions": [
+				{
+					"id": 1,
+					"name": "샷 추가",
+					"stock": 30,
+					"price": 500
+				},
+				{
+					"id": 2,
+					"name": "펄 추가",
+					"stock": 0,
+					"price": 600
+				},
+				{
+					"id": 3,
+					"name": "사이즈 업",
+					"stock": 30,
+					"price": 1000
+				}
+			]
+		},
+		{
+			"id": 4,
+			"name": "달커피",
+			"price": 4500,
+			"imageUrl": "https://image.dalkomm.com/app/static/images/menu/thumbnail/20220311135602_03_Spring-Blossom-Blended.png",
+			"productOptions": [
+				{
+					"id": 1,
+					"name": "샷 추가",
+					"stock": 30,
+					"price": 500
+				},
+				{
+					"id": 2,
+					"name": "펄 추가",
+					"stock": 0,
+					"price": 600
+				},
+				{
+					"id": 3,
+					"name": "사이즈 업",
+					"stock": 30,
+					"price": 1000
+				}
+			]
+		}
+	]
+}
